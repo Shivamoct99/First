@@ -1,7 +1,4 @@
 altcampus is good for online developer course.
 I have been using the Campus Connect platform to take courses and complete assignments through my university'.
-<<<<<<< HEAD
-I have been using it to learn C# and I am really happy with the results so far.
-=======
-altcampus is based out of a beautiful hill station int the indian himaliyas called dharamshala.
->>>>>>> altcampus
+ have been using it to learn C# and I am really happy with the results so far.
+Altcampus is based out of a beautiful hill station int the indian himaliyas called dharamshala.
